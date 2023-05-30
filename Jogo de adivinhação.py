@@ -18,7 +18,7 @@ def jogar():
     pontos = 1000
 
     print("Qual o nivel de dificuldade hoje", nome, "?")
-    print("(1) Fácil  (2) Médio  (3) Dificil", numero_secreto)
+    print("(1) Fácil  (2) Médio  (3) Dificil")
 
     nivel = int(input("Qual nivel você escolhe? "))
 
